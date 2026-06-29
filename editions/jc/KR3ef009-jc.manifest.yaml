@@ -1,0 +1,506 @@
+canonical_identifier: bkk:krp/KR3ef009/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ef009/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 傷寒標本心法類萃
+  identifiers:
+    krp: KR3ef009
+  tags:
+    kr-categories: KR3ef
+    tls-dates: dat04380
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ef009.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 1, filename: KR3ef009_001-jc.yaml, hash: 'sha256:58306e87f64acab348ecce9c368b6009538ed1f0890f884abd0c3bd102a12d83'}
+  - {seq: 3, filename: KR3ef009_003-jc.yaml, hash: 'sha256:efa77b67ed3f986f0dd6edb025911ad168b4c64f4ba8e69134e7bbc15d503e0c'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR3ef009_001-jc.markers.yaml, hash: 'sha256:a62437869c694446e4e04a11fa205ba94fa98f771d3e1a4817fabe1fe25916be'}
+  - {seq: 3, role: markers, filename: assets/KR3ef009_003-jc.markers.yaml, hash: 'sha256:65c169e3db0872747f5ea61646006b044f72f83f55ab18d540159be463ac1256'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2.h1s1
+    span:
+    - body
+    - 0
+    - 6974
+  label: 卷上
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d2
+    span:
+    - body
+    - 2
+    - 160
+  label: 傷風
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d3
+    span:
+    - body
+    - 160
+    - 302
+  label: 傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d4
+    span:
+    - body
+    - 302
+    - 431
+  label: 中暑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d5
+    span:
+    - body
+    - 431
+    - 547
+  label: 中濕
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d6
+    span:
+    - body
+    - 547
+    - 649
+  label: 風寒俱中
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d7
+    span:
+    - body
+    - 649
+    - 739
+  label: 內外傷寒
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d8
+    span:
+    - body
+    - 739
+    - 1050
+  label: 一切汗候
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d9
+    span:
+    - body
+    - 1050
+    - 1161
+  label: 傳染
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d10
+    span:
+    - body
+    - 1161
+    - 1225
+  label: 表證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d11
+    span:
+    - body
+    - 1225
+    - 1456
+  label: 里證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d12
+    span:
+    - body
+    - 1456
+    - 2039
+  label: 表裡證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d13
+    span:
+    - body
+    - 2039
+    - 2272
+  label: 汗後不解
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d14
+    span:
+    - body
+    - 2272
+    - 2563
+  label: 下後不解
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d15
+    span:
+    - body
+    - 2563
+    - 2649
+  label: 在上湧之
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d16
+    span:
+    - body
+    - 2649
+    - 2671
+  label: 在下泄之
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d17
+    span:
+    - body
+    - 2671
+    - 2721
+  label: 合病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d18
+    span:
+    - body
+    - 2721
+    - 2829
+  label: 兩感
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d19
+    span:
+    - body
+    - 2829
+    - 2910
+  label: 痓病
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d20
+    span:
+    - body
+    - 2910
+    - 3051
+  label: 頭疼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d21
+    span:
+    - body
+    - 3051
+    - 3140
+  label: 身疼
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d22
+    span:
+    - body
+    - 3140
+    - 3245
+  label: 腹脹滿痛
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d23
+    span:
+    - body
+    - 3245
+    - 3273
+  label: 往來寒熱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d24
+    span:
+    - body
+    - 3273
+    - 3369
+  label: 潮熱
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d25
+    span:
+    - body
+    - 3369
+    - 3528
+  label: 自汗
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d26
+    span:
+    - body
+    - 3528
+    - 3699
+  label: 自利並誤下
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d27
+    span:
+    - body
+    - 3699
+    - 3774
+  label: 小便不利
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d28
+    span:
+    - body
+    - 3774
+    - 3887
+  label: 嘔吐
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d29
+    span:
+    - body
+    - 3887
+    - 3964
+  label: 吐瀉
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d30
+    span:
+    - body
+    - 3964
+    - 4093
+  label: 喘嗽
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d31
+    span:
+    - body
+    - 4093
+    - 4271
+  label: 渴
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d32
+    span:
+    - body
+    - 4271
+    - 4337
+  label: 煩躁
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d33
+    span:
+    - body
+    - 4337
+    - 4554
+  label: 懊憹虛煩不得眠
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d34
+    span:
+    - body
+    - 4554
+    - 4649
+  label: 留飲
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d35
+    span:
+    - body
+    - 4649
+    - 4856
+  label: 痞
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d36
+    span:
+    - body
+    - 4856
+    - 5361
+  label: 結胸
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d37
+    span:
+    - body
+    - 5361
+    - 5649
+  label: 血證
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d38
+    span:
+    - body
+    - 5649
+    - 5741
+  label: 譫語
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d39
+    span:
+    - body
+    - 5741
+    - 5935
+  label: 發黃
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d40
+    span:
+    - body
+    - 5935
+    - 6053
+  label: 發斑
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d41
+    span:
+    - body
+    - 6053
+    - 6213
+  label: 發狂
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d42
+    span:
+    - body
+    - 6213
+    - 6415
+  label: 發戰
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d43
+    span:
+    - body
+    - 6415
+    - 6828
+  label: 發厥
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d44
+    span:
+    - body
+    - 6828
+    - 6878
+  label: 循衣摸床
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3ef009_jc_001-d2d45
+    span:
+    - body
+    - 6878
+    - 6974
+  label: 勞復食復
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef009_jc_003-d3.h1s1
+    span:
+    - body
+    - 0
+    - 4757
+  label: 卷下
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3ef009_jc_003-d3d2
+    span:
+    - body
+    - 2
+    - 4057
+  label: 方
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3ef009_jc_003-d3d3
+    span:
+    - body
+    - 4057
+    - 4757
+  label: 傷寒用藥加減賦
+  type: section
+  level: 2
+hash: sha256:64d506b196655ac1b0bf8a2fb26c7d0332194881a40622be9adf87482c9bc423
