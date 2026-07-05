@@ -17,11 +17,11 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 1, filename: KR3ef009_001.yaml, hash: 'sha256:5e8f4ad13609a77e365f5a1bd69574085c00ad162de69ff0e6e4f26d45a319c2'}
-  - {seq: 3, filename: KR3ef009_003.yaml, hash: 'sha256:bf00a75920b0e1a94c91e3598dd6632917d87c8004c4f833d9ba7f011148f28e'}
+  - {seq: 1, filename: KR3ef009_001.yaml, hash: 'sha256:58306e87f64acab348ecce9c368b6009538ed1f0890f884abd0c3bd102a12d83'}
+  - {seq: 3, filename: KR3ef009_003.yaml, hash: 'sha256:efa77b67ed3f986f0dd6edb025911ad168b4c64f4ba8e69134e7bbc15d503e0c'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ef009_001.markers.yaml, hash: 'sha256:a6cde2cc38b0fade543f6059a7525fd4f2f434905f746d9eec6727d3053c76e2'}
-  - {seq: 3, role: markers, filename: assets/KR3ef009_003.markers.yaml, hash: 'sha256:268938788f61aedf52fb81c89f71276c4f11b80f89d96d5c9582e74ca1d985fc'}
+  - {seq: 1, role: markers, filename: assets/KR3ef009_001.markers.yaml, hash: 'sha256:8b50ebb7d3e1ad58f277ca2f6b66b44a206f7c6dc181020c164dae00edbc1112'}
+  - {seq: 3, role: markers, filename: assets/KR3ef009_003.markers.yaml, hash: 'sha256:d6901bd257aed0493765a9d2d93e82195de4455c928b43914badf5f354eb65ef'}
 table_of_contents:
 - ref:
     seq: 1
@@ -503,7 +503,4 @@ table_of_contents:
   label: 傷寒用藥加減賦
   type: section
   level: 2
-hash: sha256:f4293bd2052333c76c5c4a2ee707a75c968d198248cb8cb79cbc1da17bd0de43
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:c1c44b91b36d86bbe6de5f8a9c9c537ae602247f6f79ec84fd02a6825a294e89
