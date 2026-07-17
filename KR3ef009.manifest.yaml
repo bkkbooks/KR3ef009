@@ -20,8 +20,8 @@ assets:
   - {seq: 1, filename: KR3ef009_001.yaml, hash: 'sha256:5e8f4ad13609a77e365f5a1bd69574085c00ad162de69ff0e6e4f26d45a319c2'}
   - {seq: 3, filename: KR3ef009_003.yaml, hash: 'sha256:7ecf7113007913abad8d3c27309428a9a504b67a8827449920078722922631f0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR3ef009_001.markers.yaml, hash: 'sha256:a3eab08c9ee8e9eac25e85e364df9a185762849b82cf45764ef5402e2d5759e3'}
-  - {seq: 3, role: markers, filename: assets/KR3ef009_003.markers.yaml, hash: 'sha256:59528eed8b15b3595c2d2b6a801e92dc82fe6bfa6262063a01e8458d7399b28a'}
+  - {seq: 1, role: markers, filename: assets/KR3ef009_001.markers.yaml, hash: 'sha256:5c4cb47e3b4a27da4b88a89f10bb60705a67764b4efd4649ef48b0c9aae8c886'}
+  - {seq: 3, role: markers, filename: assets/KR3ef009_003.markers.yaml, hash: 'sha256:a9241ad97dd569c0e69073c95f1f5e04da52a718e4e5b8ed2fd2d6a00613680d'}
 table_of_contents:
 - ref:
     seq: 1
@@ -503,7 +503,7 @@ table_of_contents:
   label: 傷寒用藥加減賦
   type: section
   level: 2
-hash: sha256:a8f5ee4f43ddd5b9f5986ffd42b47b87bf5acb4265bd40cabab3831a1c343817
+hash: sha256:0aa0308395ecd699e8dc5523d1bace49519a2634a4e2541d3ea56c5a749920f3
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
